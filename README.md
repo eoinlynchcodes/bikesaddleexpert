@@ -1,5 +1,5 @@
-# Amazona ECommerce Website
-![amazona](/template/images/amazona.jpg)
+# bikesaddleexpert ECommerce Website
+![bikesaddleexpert](/template/images/amazona.jpg)
 
 ## PLEASE DO NOT SEND PULL REQUEST
 ## ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
@@ -9,9 +9,6 @@
 Welcome to my React and Node tutorial to build a fully-functional e-commerce website exactly like amazon. Open your code editor and follow me for the next hours to build an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
 ## Demo Website
-
-- 👉 Heroku : [https://newamazona-final.herokuapp.com](https://newamazona-final.herokuapp.com)
-- 👉 AWS : [https://amazona.webacademy.pro](https://amazona.webacademy.pro)
 
 
 ## You Will Learn
@@ -30,8 +27,8 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/amazona.git
-$ cd amazona
+$ git clone git@github.com:eoinlynchcodes/bikesaddleexpert.git
+$ cd bikesaddleexpert
 ```
 
 ### 2. Setup MongoDB
@@ -39,7 +36,7 @@ $ cd amazona
 - Local MongoDB
   - Install it from [here](https://www.mongodb.com/try/download/community)
   - Create .env file in root folder
-  - Set MONGODB_URL=mongodb://localhost/amazona  
+  - Set MONGODB_URL=mongodb://localhost/bikesaddleexpert  
 - Atlas Cloud MongoDB
   - Create database at [https://cloud.mongodb.com](https://cloud.mongodb.com)
   - Create .env file in root folder
@@ -89,7 +86,7 @@ $ npm start
    2. Web Browser
    3. VS Code Extension
 3. Website Template
-   1. Create amazona folder
+   1. Create bikesaddleexpert folder
    2. create template folder
    3. create index.html
    4. add default HTML code
@@ -330,7 +327,7 @@ $ npm start
     2. Create heroku account
     3. install Heroku CLI
     4. heroku login
-    5. heroku apps:create <yourname>amazona
+    5. heroku apps:create <yourname>bikesaddleexpert --region eu
     6. Edit package.json for build script
     10. Create Procfile
     12. Create mongodb atlas database
